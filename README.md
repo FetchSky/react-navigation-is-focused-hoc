@@ -134,7 +134,7 @@ Or with ES7 decorators:
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
-| [<img src="https://avatars2.githubusercontent.com/u/8849583?s=460&v=3" width="100px;"/><br /><sub><b>Peter Machowski</b></sub>](https://github.com/pmachowski)<br />| [<img src="https://avatars1.githubusercontent.com/u/4481570?s=460&v=3" width="100px;"/><br /><sub><b>Patrick Wozniak</b></sub>](https://patwoz.de/)<br />| [<img src="https://avatars2.githubusercontent.com/u/2672503?s=460&v=3" width="100px;"/><br /><sub><b>Charles Crete</b></sub>](https://github.com/Cretezy)<br />| [<img src="https://avatars0.githubusercontent.com/u/9060741?s=460&v=3" width="100px;"/><br /><sub><b>Ulises Giacoman</b></sub>](https://github.com/ugiacoman)<br />
+| [<img src="https://avatars3.githubusercontent.com/u/6891214?s=460&v=3" width="100px;"/><br /><sub><b>Hamza Iqbal</b></sub>](https://github.com/hackerhgl)<br />| [<img src="https://avatars2.githubusercontent.com/u/8849583?s=460&v=3" width="100px;"/><br /><sub><b>Peter Machowski</b></sub>](https://github.com/pmachowski)<br />| [<img src="https://avatars1.githubusercontent.com/u/4481570?s=460&v=3" width="100px;"/><br /><sub><b>Patrick Wozniak</b></sub>](https://patwoz.de/)<br />| [<img src="https://avatars2.githubusercontent.com/u/2672503?s=460&v=3" width="100px;"/><br /><sub><b>Charles Crete</b></sub>](https://github.com/Cretezy)<br />| [<img src="https://avatars0.githubusercontent.com/u/9060741?s=460&v=3" width="100px;"/><br /><sub><b>Ulises Giacoman</b></sub>](https://github.com/ugiacoman)<br />
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 ------------
